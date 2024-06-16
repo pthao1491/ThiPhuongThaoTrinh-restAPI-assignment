@@ -1,0 +1,14 @@
+{
+  "name": "inm420-week4-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Thi Phuong Thao Trinh",
+  "license": "private",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
